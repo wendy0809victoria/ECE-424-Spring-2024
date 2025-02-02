@@ -1,5 +1,3 @@
 # CS 463 (sp24) repo for NetID: wendiw2
 
-GitHub username at initialization time: wendy0809victoria
-
-For next steps, please refer to the instructions provided by your course.
+Coursework from ECE 424 (Computer Security II) in the Spring of 2024 semester.
